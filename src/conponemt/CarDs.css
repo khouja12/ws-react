@@ -1,0 +1,5 @@
+.Navs {
+    display: flex;
+    justify-content: row;
+    justify-content: space-around;
+}
